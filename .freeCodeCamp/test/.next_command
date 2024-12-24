@@ -78,3 +78,4 @@ psql -U postgres < students.sql
 \l
 \l
 psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
